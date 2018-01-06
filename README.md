@@ -11,6 +11,6 @@ This repository contains the slide deck for our keynote address, *Miniaturizing 
 
 The citation for the presentation is:
 
-Gregory P. Nordin, Hua Gong, Adam T. Woolley, “Miniaturizing 3D Printed Microfluidics,” MicroTAS 2017, **Invited Keynote Address**, Savannah, Georgia, October 2017. 
+Gregory P. Nordin, Hua Gong, Adam T. Woolley, “Miniaturizing 3D Printed Microfluidics,” MicroTAS 2017, **Invited Keynote Address**, Savannah, Georgia, October 2017. Slides available at DOI 10.5281/zenodo.1133980.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
